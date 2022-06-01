@@ -7,5 +7,7 @@ public class GetTicketsTest {
 public void gitBashPractice()
 {
 	System.out.println("gitbash run");
+	System.out.println("gitbash running");
+	
 }
 }
